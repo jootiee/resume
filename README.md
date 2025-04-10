@@ -1,6 +1,6 @@
 # Gleb Purtov's Resume
 
-This repository contains the latest version of my résumé. They are available in PDF on the releases tab and are deployed on [https://jootiee.github.io/](https://jootiee.github.io/) (Russian version) and [https://jootiee.github.io/en](https://jootiee.github.io/en) (English version).
+This repository contains the latest version of my résumé. They are available in PDF on the releases tab and are deployed on [http://purtov.me/](http://purtov.me/) (Russian version) and [http://purtov.me.en](http://purtov.me/en) (English version).
 
 ## Preview
 English version:
